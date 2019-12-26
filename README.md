@@ -1,2 +1,2 @@
 # TimeRuler
-Ruler like watch face for Garmin watches.
+Garmin Watch face which looks like a ruler.
